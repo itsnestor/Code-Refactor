@@ -14,4 +14,4 @@ Looking at the website initially, I noticed one of the links wasn't working prop
 
 ![website picture](Develop/assets/images/website-picture.png)
 
-### [Heres a link to the working website!](https://itsnestor.github.io/Code-Refactor)
+### [Heres a link to the working website!](https://itsnestor.github.io/Code-Refactor/)
